@@ -1,0 +1,82 @@
+p{
+	font-family: arial, sans-serif;
+	font-size: 0.9em;
+}
+
+.recherche, .chance {
+	background-color: #f8f9fa;
+	font-size: 1em;
+	font-family: arial, sans-serif;
+	width: 150px;
+	text-align: center;
+	border-radius: 5px;
+}
+
+#anglais {
+	font-size: 0.9em;
+	font-family: arial, sans-serif;
+	text-align: center;
+	padding: 10px;
+	padding-bottom: 195px;
+}
+
+.footer {
+	background-color: #f8f9fa;
+}
+
+.form {
+	display: flex;
+	padding-top: 6px;
+	padding-left: 8px;
+	padding-right: 8px;
+	border: 0.2px grey solid;
+	height: 35px;
+	width: 565px;
+	justify-content: space-between;
+	border-radius: 20px;
+}
+
+.nav{
+	display: flex;
+	justify-content: flex-end;
+}
+
+#logo{
+	padding-top: 103px;
+	text-align: center;
+}
+
+#bdr{
+	display: flex;
+	align-items : center;
+	justify-content : center;
+	padding-top: 25px;
+}
+
+#rechance{
+	display: flex;
+	display: flex;
+	align-items : center;
+	justify-content : center;
+	padding-top: 28px;
+}
+
+#blockfooter{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	height: 40px;
+	align-items: center;
+	align-content: space-around; 
+	border-top: 1px solid #dadce0;
+}
+
+.france{
+	padding-left: 30px;
+}
+
+footer {
+	background-color: #f8f9fa;
+	padding: 5px;
+	color:#dadce0;
+}
